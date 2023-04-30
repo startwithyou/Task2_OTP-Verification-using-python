@@ -1,0 +1,2 @@
+Password = "eyokxzngkfckbbuu"
+print("Password")
